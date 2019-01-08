@@ -1,0 +1,11 @@
+# Praktikum-1
+Latihan 1
+![alt text](https://github.com/Maulanapranasutra/Praktikum-1/blob/master/SS%20lat%201/1.JPG)
+Latihan 2
+![alt text](https://github.com/Maulanapranasutra/Praktikum-1/blob/master/SS%20lat%201/2.JPG)
+Latihan 3
+![alt text](https://github.com/Maulanapranasutra/Praktikum-1/blob/master/SS%20lat%201/3.JPG)
+Latihan 4
+![alt text](https://github.com/Maulanapranasutra/Praktikum-1/blob/master/SS%20lat%201/4.JPG)
+Latihan 5
+![alt text](https://github.com/Maulanapranasutra/Praktikum-1/blob/master/SS%20lat%201/5.JPG)
